@@ -8,7 +8,6 @@ On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-emilyomahony
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-emilyomahony/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-emilyomahony)
 
-
 ## Integrations
 
 * The npm package `prettier` is used to implement a pre-commit hook that formats JavaScript code.  See: [docs/prettier.md](./docs/prettier.md) for more information.
